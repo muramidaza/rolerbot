@@ -1,0 +1,7 @@
+{
+ "TelegramBotToken": "445186977:AAEOIRCywFNTZoghY7mZJF_4jJ4znZgQUTQ",
+ "Host": "127.0.0.1",
+ "DBName": "golangbot",
+ "User": "bot",
+ "Password": "1234"
+}
