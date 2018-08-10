@@ -3,5 +3,5 @@
  "Host": "127.0.0.1",
  "DBName": "golangbot",
  "User": "bot",
- "Password": "1234"
+ "Password": "1234567"
 }
